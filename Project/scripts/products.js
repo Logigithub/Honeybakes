@@ -59,7 +59,7 @@ const products = [
   { id: 'PRO1234156', image: 'pics/Shop1/49.png', name: 'Sample Cake 49', quantity: 1, price: 980 },
   { id: 'PRO1234157', image: 'pics/Shop1/50.png', name: 'Sample Cake 50', quantity: 1, price: 990 },
   { id: 'PRO1234158', image: 'pics/Shop1/51.png', name: 'Sample Cake 51', quantity: 1, price: 990 },
-  { id: 'PRO1234159', image: 'pics/Shop2/51.png', name: 'Sample Cake 51', quantity: 1, price: 990 },
+ 
   { id: 'PRO1234160', image: 'pics/Shop2/52.png', name: 'Sample Cake 52', quantity: 1, price: 995 },
   { id: 'PRO1234161', image: 'pics/Shop2/53.png', name: 'Sample Cake 53', quantity: 1, price: 1000 },
   { id: 'PRO1234162', image: 'pics/Shop2/54.png', name: 'Sample Cake 54', quantity: 1, price: 1020 },
